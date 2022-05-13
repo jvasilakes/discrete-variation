@@ -1,0 +1,3 @@
+Extract the contents of sfu_fixed.tar.gz then run.
+
+python sfu_to_conll.py --random_state 0 --outdir conll_splits fixed/SFU_Review_Corpus_Negation_Speculation/{BOOKS,CARS,COMPUTERS,COMPUTERS,COOKWARE,HOTELS,MOVIES,MUSIC,PHONES}
